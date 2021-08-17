@@ -1,4 +1,5 @@
 # temperaturLogger
+Projekt Status: https://suoy.monday.com/boards/1578955167/pulses/1578955196
 
 Schaltbild:
 
@@ -21,14 +22,24 @@ Anschließend unter dem Installationsverzeichnis in ~/Adruino/libraries verschie
 3. Arduino starten
 ![image](https://user-images.githubusercontent.com/86537226/129705830-07318ac6-7e52-4e57-8612-ad9d7fe4927f.png)
 
+4. Installiere Bibliotheken:
+Arduino IDE:
+Sketch > Bibliothek einbinden > Bibliothek einbinden
+OneWire und DallasTemperature installieren (falls nicht automatisch hinzugefügt)
 
 4. Sensor-Adressen der DS18B20 auslesen
 
+Lade die Datei readSensor.ino in Adruino
+> Hochladen (Strg+D)
+
+Ausgabe des seriellen Monitors anzeigen
+> Serieller Monitor anzeigen [baud rate = 115200] (Strg+Umsch+M)
 
 
 
 
-https://suoy.monday.com/boards/1578955167/pulses/1578955196
+
+
 
 ESP8266 GPIO:
 https://randomnerdtutorials.com/esp8266-pinout-reference-gpios/
