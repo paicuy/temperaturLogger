@@ -21,7 +21,10 @@ Anschließend unter dem Installationsverzeichnis in ~/Adruino/libraries verschie
 3. Arduino starten
 ![image](https://user-images.githubusercontent.com/86537226/129705830-07318ac6-7e52-4e57-8612-ad9d7fe4927f.png)
 
-4. Get Adresses of DS18B20
+
+4. Sensor-Adressen der DS18B20 auslesen
+
+
 
 
 
