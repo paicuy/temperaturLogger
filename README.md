@@ -8,3 +8,5 @@ https://arduino-esp8266.readthedocs.io/en/latest/installing.html
 How to ESP8266 with DS18B20:
 https://randomnerdtutorials.com/esp8266-ds18b20-temperature-sensor-web-server-with-arduino-ide/
 
+How to ESP8266 to Raspberry Pi:
+https://www.youtube.com/watch?v=OFaow_TPv6s
