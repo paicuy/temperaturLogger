@@ -1,6 +1,7 @@
 # temperaturLogger
 Projekt Status: https://suoy.monday.com/boards/1578955167/pulses/1578955196
 
+
 Schaltbild:
 
 ![image](https://user-images.githubusercontent.com/86537226/129707013-428c15ba-4fd0-421d-99a0-32ec8f4c69ab.png)
