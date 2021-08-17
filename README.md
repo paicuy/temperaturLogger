@@ -1,8 +1,8 @@
 # temperaturLogger
 
-Beispiel der Verkabelung:
-![image](https://user-images.githubusercontent.com/86537226/129704220-f39ad84f-b9f0-4d70-b4ae-9f0289f3b4a9.png)
-Quelle: https://randomnerdtutorials.com/esp8266-ds18b20-temperature-sensor-web-server-with-arduino-ide/
+Schaltbild:
+![image](https://user-images.githubusercontent.com/86537226/129707013-428c15ba-4fd0-421d-99a0-32ec8f4c69ab.png)
+
 
 ESP 8266 Programmierung mit Arduino:
 
