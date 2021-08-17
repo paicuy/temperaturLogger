@@ -28,6 +28,12 @@ Arduino IDE:
 Sketch > Bibliothek einbinden > Bibliothek einbinden
 OneWire und DallasTemperature installieren (falls nicht automatisch hinzugefügt)
 
+Datei > Einstellungen
+Zusätzliche Board Manager URLs: https://dl.espressif.com/dl/package_esp32_index.json, http://arduino.esp8266.com/stable/package_esp8266com_index.json
+Tools > Boards > Boards Manager
+ESP8266 suchen und installieren
+
+
 4. Sensor-Adressen der DS18B20 auslesen
 
 Lade die Datei readSensor.ino in Adruino
