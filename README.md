@@ -40,6 +40,7 @@ Ausgabe des seriellen Monitors anzeigen
 
 
 
+Recherchekram:
 
 ESP8266 GPIO:
 https://randomnerdtutorials.com/esp8266-pinout-reference-gpios/
