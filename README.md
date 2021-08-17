@@ -1,5 +1,8 @@
 # temperaturLogger
 
+![image](https://user-images.githubusercontent.com/86537226/129704220-f39ad84f-b9f0-4d70-b4ae-9f0289f3b4a9.png)
+
+
 https://suoy.monday.com/boards/1578955167/pulses/1578955196
 
 ESP8266 GPIO:
