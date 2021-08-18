@@ -25,8 +25,8 @@ Anschließend unter dem Installationsverzeichnis in ~/Adruino/libraries verschie
 
 4. Installiere Bibliotheken:
 Arduino IDE:
-Sketch > Bibliothek einbinden > Bibliothek einbinden
-OneWire und DallasTemperature installieren (falls nicht automatisch hinzugefügt)
+Sketch > Bibliothek einbinden
+PubSubClient, OneWire und DallasTemperature installieren (falls nicht automatisch hinzugefügt)
 
 Datei > Einstellungen
 Zusätzliche Board Manager URLs: https://dl.espressif.com/dl/package_esp32_index.json, http://arduino.esp8266.com/stable/package_esp8266com_index.json
