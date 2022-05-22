@@ -19,6 +19,7 @@ https://downloads.arduino.cc/arduino-1.8.15-linux64.tar.xz
 
 
 2. Arduino starten
+
 ![image](https://user-images.githubusercontent.com/86537226/129705830-07318ac6-7e52-4e57-8612-ad9d7fe4927f.png)
 
 3.1 Installieren zusätzlicher Boards 
