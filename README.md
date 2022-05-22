@@ -42,11 +42,12 @@ Tools > Boards > Boards Manager
 ESP8266 suchen und installieren
 
 
-4. Test-Scripts unter Development/Scripts laden,
-um die Hardware auf Funktion zu überprüfen.
+4. Test-Scripts unter /Development/Scripts laden, um die Hardware auf Funktion zu überprüfen.
 
 > Port unter Werkzeuge auf Microcontroller einstellen
+
 Ausgabe des seriellen Monitors anzeigen:
+
 > Serieller Monitor anzeigen [baud rate = 115200] (Strg+Umsch+M)
 
 
